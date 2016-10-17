@@ -24,4 +24,9 @@ WARNING: The workshop will start from these slides and not covering any of the a
 
 ## POST-WORKSHOP RUN
 
-1. Continue to contribute (no matter how big or small!) to projects like [DevSecOps](https://github.com/devsecops) or [DevSecOpsSG](https://github.com/devsecopsSG)!!
+1. Continue to contribute (no matter how big or small!) to projects like 
+
+  * [DevSecOpsSG](https://github.com/devsecopsSG)
+  * [DevSecOps](https://github.com/devsecops)
+
+Thanks!
