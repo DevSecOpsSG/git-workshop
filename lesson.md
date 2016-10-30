@@ -7,7 +7,7 @@
 
 If you fall under (or above) the categories, feel free to proceed to the PRE-WORKSHOP section and start. I will only spend 5 minutes at the start of class to troubleshoot.
 
-## PRE-WORKSHOP FUN (20 mins)
+## PRE-WORKSHOP FUN (5-30 mins)
 
 1. (2min)  Sign up for a Github account
   - [So you think your password is strong?](http://www.devsecops.org/blog/2015/5/14/security-science)
