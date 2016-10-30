@@ -12,14 +12,16 @@ If you fall under (or above) the categories, feel free to proceed to the PRE-WOR
 1. (2min)  Sign up for a Github account
   - [So you think your password is strong?](http://www.devsecops.org/blog/2015/5/14/security-science)
 
-2. (3min)  Secure your account with [2FA](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/). **This is an awesome security feature and you should always use 2FA. Plus, it's required for some repositories.**
+2. (3min)  [Secure your account with 2FA](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/).
+  - **This is an awesome security feature and you should always use 2FA. Plus, it's required for some repositories.**
   - [Why 2FA???](http://www.devsecops.org/blog/2015/9/4/multi-factor-auth-a-call-to-action)
 
 3. (5min, depending on download speed)  [Git it on your machine - various OS](https://git-scm.com/downloads)
 
   - We are eventually going to use the git **CLI**, not GUI
 
-4. (5min) [Generate a new SSH key so you can authenticate to Github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (For good practice, do not share/use your existing SSH keys)
+4. (5min) [Generate a new SSH key so you can authenticate to Github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+  - **For good practice, do not share/use your existing SSH keys**
 
 5. (5min) [Add your generated SSH key to your GitHub account so you can `git clone`](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
