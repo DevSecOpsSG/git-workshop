@@ -17,7 +17,7 @@ If you fall under (or above) the categories, feel free to proceed to the PRE-WOR
 
 3. (5min, depending on download speed)  [Git it on your machine - various OS](https://git-scm.com/downloads)
 
-  1. We are eventually going to use the git **CLI**, not GUI
+  - We are eventually going to use the git **CLI**, not GUI
 
 4. (5min) [Generate a new SSH key so you can authenticate to Github](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (For good practice, do not share/use your existing SSH keys)
 
