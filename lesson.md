@@ -1,4 +1,4 @@
-# DevSecOps Git Workshop
+# DevSecOpsSG Git Workshop
 
 ## Audience
 1. For DEVELOPERS who want to know how to use Git for their daily life or to be a better DevSecOps engineer
