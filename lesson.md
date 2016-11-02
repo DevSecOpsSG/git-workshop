@@ -33,9 +33,9 @@ If you fall under (or above) the categories, feel free to proceed to the PRE-WOR
 
 DISCLAIMER: Lab is untested, yet!!!
 
-WARNING: The workshop will start from [these slides](./) and not covering any of the above requirements. I will take off from here and you will have to catch up.
+WARNING: The workshop will start from [these slides](https://fabianlim1989.github.io/devsecops-git-workshop) and not covering any of the above requirements. I will take off from here and you will have to catch up.
 
-[Slides Here](./)
+[Slides Here](https://fabianlim1989.github.io/devsecops-git-workshop)
 
 ## POST-WORKSHOP RUN
 
