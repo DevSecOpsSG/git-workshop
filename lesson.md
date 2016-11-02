@@ -1,6 +1,6 @@
 # DevSecOpsSG Git Workshop
 
-## Audience
+## AUDIENCE
 1. For DEVELOPERS who want to know how to use Git for their daily life or to be a better DevSecOps engineer
 2. For MANAGERS who want to know how to use Git as a way to track progress, manage projects, processes workflows, and also metrics
 3. For those who are neither but is wiling to learn
