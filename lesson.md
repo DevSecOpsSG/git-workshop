@@ -9,6 +9,9 @@ If you fall under (or above) the categories, feel free to proceed to the PRE-WOR
 
 ## PRE-WORKSHOP SET-UP (5-30 mins)
 
+0. (5min) If the workshop is held in GovTech, Hive
+ - Sign up for [Wireless@SG](https://www.singtel.com/personal/internet/broadband-on-the-go/wireless-sg.html) to gain Internet access
+
 1. (2min)  Sign up for a Github account at https://github.com
   - Optional reading: [So you think your password is strong?](http://www.devsecops.org/blog/2015/5/14/security-science)
 
